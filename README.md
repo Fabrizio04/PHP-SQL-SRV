@@ -3,4 +3,4 @@
 
 For configuration, full video on YouTube.
 
-[![Connect PHP to SQL Server (Windows & Linux)](http://img.youtube.com/vi/Kce_HFQQpvc/1.jpg)](http://www.youtube.com/watch?v=Kce_HFQQpvc "Connect PHP to SQL Server (Windows & Linux)")
+[![Connect PHP to SQL Server (Windows & Linux)](http://img.youtube.com/vi/Kce_HFQQpvc/0.jpg)](http://www.youtube.com/watch?v=Kce_HFQQpvc "Connect PHP to SQL Server (Windows & Linux)")
